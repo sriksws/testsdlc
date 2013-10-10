@@ -1,0 +1,4 @@
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data\bin\Release\PhluffyFotos.Data.dll
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data\bin\Release\PhluffyFotos.Data.pdb
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data\obj\Release\PhluffyFotos.Data.dll
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data\obj\Release\PhluffyFotos.Data.pdb

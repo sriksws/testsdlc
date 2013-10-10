@@ -1,0 +1,9 @@
+C:\Users\bradyg\SkyDrive\Sources\PhluffyFotos\code\PhluffyFotos.Data\bin\Debug\PhluffyFotos.Data.dll
+C:\Users\bradyg\SkyDrive\Sources\PhluffyFotos\code\PhluffyFotos.Data\bin\Debug\PhluffyFotos.Data.pdb
+C:\Users\bradyg\SkyDrive\Sources\PhluffyFotos\code\PhluffyFotos.Data\obj\Debug\PhluffyFotos.Data.csprojResolveAssemblyReference.cache
+C:\Users\bradyg\SkyDrive\Sources\PhluffyFotos\code\PhluffyFotos.Data\obj\Debug\PhluffyFotos.Data.dll
+C:\Users\bradyg\SkyDrive\Sources\PhluffyFotos\code\PhluffyFotos.Data\obj\Debug\PhluffyFotos.Data.pdb
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data\bin\Debug\PhluffyFotos.Data.dll
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data\bin\Debug\PhluffyFotos.Data.pdb
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data\obj\Debug\PhluffyFotos.Data.dll
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data\obj\Debug\PhluffyFotos.Data.pdb

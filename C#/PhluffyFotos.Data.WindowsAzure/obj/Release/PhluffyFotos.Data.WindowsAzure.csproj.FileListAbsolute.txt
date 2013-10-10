@@ -1,0 +1,9 @@
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data.WindowsAzure\bin\Release\PhluffyFotos.Data.WindowsAzure.dll
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data.WindowsAzure\bin\Release\PhluffyFotos.Data.WindowsAzure.pdb
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data.WindowsAzure\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data.WindowsAzure\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data.WindowsAzure\bin\Release\PhluffyFotos.Data.dll
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data.WindowsAzure\bin\Release\PhluffyFotos.Data.pdb
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data.WindowsAzure\obj\Release\PhluffyFotos.Data.WindowsAzure.csprojResolveAssemblyReference.cache
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data.WindowsAzure\obj\Release\PhluffyFotos.Data.WindowsAzure.dll
+C:\Users\bradyg\SkyDrive\Sources\WindowsAzure-Samples-PhluffyPhotos\code\PhluffyFotos.Data.WindowsAzure\obj\Release\PhluffyFotos.Data.WindowsAzure.pdb
